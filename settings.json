@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "BedrockeJavaSurvival.aternos.me",
+    "port": 25218,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
