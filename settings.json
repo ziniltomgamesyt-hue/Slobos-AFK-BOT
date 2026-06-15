@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "OButeco",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "BedrockeJavaSurvival.aternos.me",
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Só uma mensagem pra enganar o Aternos",
+        "Sou um Buteco",
+        "To rodando que nem pirueta"
       ]
     },
     "chat-log": true,
