@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BedrockeJavaSurvival.aternos.me",
+    "ip": "BedrockeJavaSurvival.aternos.me:25218",
     "port": 25218,
     "version": "1.21.11"
   },
