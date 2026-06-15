@@ -37,12 +37,12 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
-      "max-interval": 60
+      "max-interval": 40
     }
   },
   "movement": {
